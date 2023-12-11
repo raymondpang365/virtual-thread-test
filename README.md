@@ -1,11 +1,5 @@
 # virtual-thread-test
 
-#### Note
-
-For educational and testing purpose only
-
-#### Description
-
 A java virtual thread test that compares the performance of
 - Blocking Messenger
 - Concurrent Messenger with virtual threads
