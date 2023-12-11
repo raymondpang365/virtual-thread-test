@@ -26,6 +26,6 @@ I find the concurrrent messenger indeed have significant speed up.
 
 - It currently uses all my CPU cores. Will force it to only use 1 platform thread.
 
-- Now, we have to rely on pressing `run` on IDE to run this. `bm.sh` and `cm.sh` were working but now they do not work. Investigating the reason why `bm.sh` and `cm.sh` were working but now not. 
+- Now, we have to rely on pressing `run` on IDE to run this. Investigating the reason why `bm.sh` and `cm.sh` were working but now do not. 
 
-- A maintainable maven / folder structure if I want to add more examples
+- A maintainable maven / folder structure when I add more examples
