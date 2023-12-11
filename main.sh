@@ -1,0 +1,1 @@
+java -jar target/messenger-1.0.jar
